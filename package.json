@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-is-default-keyboard",
+  "version": "1.0.0",
+  "description": "Cordova plugin that provides JS API to check if custom keyboard is used on Android as well as blocking custom keyboards on iOS",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis-zenkovich/cordova-plugin-is-default-keyboard.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "default",
+    "keyboard"
+  ],
+  "author": "Denis Zenkovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denis-zenkovich/cordova-plugin-is-default-keyboard/issues"
+  },
+  "homepage": "https://github.com/denis-zenkovich/cordova-plugin-is-default-keyboard#readme"
+}
