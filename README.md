@@ -1,0 +1,1 @@
+# cordova-plugin-is-default-keyboard
